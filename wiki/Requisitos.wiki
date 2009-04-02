@@ -7,7 +7,15 @@ O Sistema de controle e acompanhamento de ementas e bibliografias de cursos, bus
 
 = Requisitos =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+== Funcionais ==
+
+  * Cadastro de ementa de uma disciplina de um curso
+  * Cadastro de usuários do sistema (visualizadores e editores)
+  * Cadastro de turmas
+  * Cadastro de bibliografia
+
+== Não-funcionais ==
+
+  * Framework de apresentação: a definir
+  * Framework de persistência: Hibernate Annotation
+  * Ferramenta de automação: Maven 2
