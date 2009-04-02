@@ -1,10 +1,9 @@
-#summary One-sentence summary of this page.
+#summary Requisitos Funcionais do Sistema
 #labels Featured,Phase-Requirements
 
 = Introdução =
 
-Add your content here.
-
+O Sistema de controle e acompanhamento de ementas e bibliografias de cursos, busca facilitar o controle das ementas e sua atualização. Deve controlar as bibliografias básicas e complementares de cada disciplina do curso. Será necessário informações para as consultas de alunos por livros, livros por disciplina, livros por curso, livros compartilhados em várias disciplinas.
 
 = Requisitos =
 
