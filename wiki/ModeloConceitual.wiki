@@ -1,0 +1,6 @@
+#summary Diagrama de Classes do Modelo Conceitual.
+#labels Phase-Design
+
+= Modelo Conceitual =
+
+[http://ementas.googlecode.com/files/Class%20Diagram%201.jpg]
