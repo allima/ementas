@@ -1,5 +1,5 @@
 #summary Diagrama de Classes do Modelo Conceitual.
-#labels Phase-Design
+#labels Phase-Design,Featured
 
 = Modelo Conceitual =
 
