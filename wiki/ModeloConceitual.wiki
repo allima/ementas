@@ -4,5 +4,3 @@
 = Modelo Conceitual =
 
 [http://ementas.googlecode.com/files/Class%20Diagram%201.jpg]
-
-[http://ementas.googlecode.com/files/Class%20Diagram%201.jpg]
