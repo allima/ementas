@@ -3,3 +3,35 @@
 
 
 [http://ementas.googlecode.com/files/DER-Projeto%28Programa%C3%A7%C3%A3o%20WEB%29.JPG]
+
+
+= MER =
+
+== Tabelas proviniente do Modelo Entidade Relacionamento ==
+
+CURSO ( cod-curso, nome_curso, turno, nome_coordenador, num_periodo  )
+
+DISCIPLINA (cód-disciplina, nome, carga_horaria, nome_professor, cód_emenda,     cód_turma)
+
+EMENTA (cód-ementa, objetivos, conteúdo_programatico, metodologia, avaliação, num_creditos, cód_bibliografia )
+
+BIBLIOGRAFIA (cód-bibliografia, nome)
+
+LIVRO (cód-livro, isbn, titulo, nome_autor, edição, nome_editora)
+
+TURMA (cód-turma, semestre, turma )
+
+BIBLIOGRAFIA_LIVRO ( cód-livro, cód-bibliografia )
+
+PESSOA (cpf, nome, rg, dt_nascimento, carteira_trabalho, salario, tipo, matricula)
+
+TURMA_PESSOA (cód-turma, lista-alunos)
+
+CURSO_DISCIPLINA (cód-curso, cód-disciplina)
+
+CURSO_PESSOA (cód-curso, cpf)
+
+DISCIPLINA_PESSOA (cód-disciplina, cpf)
+
+
+=Dicionário de Dados=
