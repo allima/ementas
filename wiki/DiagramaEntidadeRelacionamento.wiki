@@ -41,3 +41,4 @@ DISCIPLINA_PESSOA (cód-disciplina, cpf)
 [http://ementas.googlecode.com/files/Tabela%20dicion%C3%A1rio%20Ementa.JPG]
 [http://ementas.googlecode.com/files/Tabela%20dicion%C3%A1rio%20bibliografia%20e%20livro.JPG]
 [http://ementas.googlecode.com/files/Tabela%20dicion%C3%A1rio%20turma%20e%20bibliografia_livro.JPG]
+[http://ementas.googlecode.com/files/Tabela%20dicion%C3%A1rio%20Pessoa.JPG]
