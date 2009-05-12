@@ -35,3 +35,5 @@ DISCIPLINA_PESSOA (cód-disciplina, cpf)
 
 
 =Dicionário de Dados=
+
+[http://ementas.googlecode.com/files/Tabela%20dicion%C3%A1rio%20Disciplina.JPG]
