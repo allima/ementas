@@ -1,5 +1,4 @@
 #summary DER (Diagrama de Entidade Relacionamento).
-#labels Featured,Phase-Design,Phase-Requirements
 
 
 [http://ementas.googlecode.com/files/DER-Projeto%28Programa%C3%A7%C3%A3o%20WEB%29.JPG]
@@ -42,3 +41,4 @@ DISCIPLINA_PESSOA (cód-disciplina, cpf)
 [http://ementas.googlecode.com/files/Tabela%20dicion%C3%A1rio%20bibliografia%20e%20livro.JPG]
 [http://ementas.googlecode.com/files/Tabela%20dicion%C3%A1rio%20turma%20e%20bibliografia_livro.JPG]
 [http://ementas.googlecode.com/files/Tabela%20dicion%C3%A1rio%20Pessoa.JPG]
+[http://ementas.googlecode.com/files/Tabela%20dicion%C3%A1rio%20Turma_pessoa%20e%20Curso_disciplina.JPG]
