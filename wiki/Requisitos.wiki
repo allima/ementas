@@ -16,6 +16,7 @@ O Sistema de controle e acompanhamento de ementas e bibliografias de cursos, bus
 
 == Não-funcionais ==
 
-  * Framework de apresentação: a definir
-  * Framework de persistência: Hibernate Annotation
-  * Ferramenta de automação: Maven 2
+  * Framework de apresentação: a definir.
+  * Framework de persistência: Hibernate(como provedor), e Java Persistence API (JPA).      
+  * Framework para desenvolvimento de aplicação Web: Java Server Faces.
+  * Ferramenta de automação: a definir(se necessário).
